@@ -13,5 +13,10 @@
         "navn": "Brasilien",
         "fordele": ["bedre teknik"],
         "ulemper": ["lavere moral"]
+    },
+    {
+        "navn": "England",
+        "fordele": ["Bredt mål"],
+        "ulemper": ["Grimme spillere"]
     }
 ]
