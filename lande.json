@@ -23,5 +23,10 @@
         "navn": "Spanien",
         "fordele": ["Hurtige"],
         "ulemper": ["Ingen"]
+    },
+    {
+        "navn": "Holland",
+        "fordele": ["Smiler når de spiller"],
+        "ulemper": ["Første to mål tæller ikke"]
     }
 ]
