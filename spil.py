@@ -3,7 +3,7 @@ import random
 import json
 
 # Læs data fra JSON-fil
-with open('ChatGPT/lande.json', 'r') as f:
+with open('lande.json', 'r') as f:
     lande_data = json.load(f)
 
 def vælg_tilfældigt_land():
