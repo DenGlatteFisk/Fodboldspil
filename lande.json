@@ -1,0 +1,17 @@
+[
+    {
+        "navn": "Danmark",
+        "fordele": ["mål tæller 2x"],
+        "ulemper": ["mindre stamina"]
+    },
+    {
+        "navn": "Tyskland",
+        "fordele": ["hurtigere spillere"],
+        "ulemper": ["svagere forsvar"]
+    },
+    {
+        "navn": "Brasilien",
+        "fordele": ["bedre teknik"],
+        "ulemper": ["lavere moral"]
+    }
+]
