@@ -18,5 +18,10 @@
         "navn": "England",
         "fordele": ["Bredt mål"],
         "ulemper": ["Grimme spillere"]
+    },
+    {
+        "navn": "Spanien",
+        "fordele": ["Hurtige"],
+        "ulemper": ["Ingen"]
     }
 ]
